@@ -18,10 +18,10 @@ function App() {
 				<Link to="/" className="navbar-brand"> MERN-Stack Todo App</Link>
 				<div className="collaspe nav-collaspe">
 					<ul className="navbar-nav mr-auto">
-						<li classname="navbar-item">
+						<li className="navbar-item">
 							<Link to="/" className="nav-link">Todos</Link>
 						</li>
-						<li classname="navbar-item">
+						<li className="navbar-item">
 							<Link to="/create" className="nav-link">Create Todos</Link>
 						</li>
 					</ul>
